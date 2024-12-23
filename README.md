@@ -1,1 +1,1 @@
-# GraphQL countries backend within the scope of Patika.dev
+# GraphQL countries backend made for Patika.dev NodeJS backend
